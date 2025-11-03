@@ -2,7 +2,7 @@
 *ATENÇÃO: ESSA OBRA ATUALIZA UMA OUTRA OBRA JÁ CRIADA, A OBRA ORIGINAL NÃO É DE AUTORIA DE "MATHEUSWM2222" A ORIGINAL É DE AUTORIA DE "AnandSrikumar*
 
 # Obra Original
-Link da obra original: https://github.com/MatheusWM2222/PacmanByAnandSrikumar
+Link da obra original: https://github.com/AnandSrikumar/PyPacman
 
 # Autores da edição
 Matheus Mendonça
