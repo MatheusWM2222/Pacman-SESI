@@ -11,7 +11,7 @@ Iasmin Mandel
 Fernarda Borges
 
 # Video-explicação das mudanças e como instalar
-Link: Insiral ink top
+Link: https://youtu.be/H2vlE_KL_Sg
 
 # Documento da nossa experiência
 Link: https://docs.google.com/document/d/1iCausUGG71KZJmmOjE9svgxM3PSdUiWLW5U6ZGYXibc/edit?usp=sharing
