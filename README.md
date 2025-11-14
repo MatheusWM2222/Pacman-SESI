@@ -8,7 +8,7 @@ Link da obra original: https://github.com/AnandSrikumar/PyPacman
 Matheus Mendonça
 João Henrique
 Iasmin Mandel
-Fernarda Borges
+Fernanda Borges
 
 # Video-explicação das mudanças e como instalar
 Link: https://youtu.be/H2vlE_KL_Sg
